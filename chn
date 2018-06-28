@@ -1,0 +1,7 @@
+
+#!/bin/bash
+
+git config --global user.name "ZHISHANN"
+git config --global user.email "zhi_shan1998@hotmail.com"
+
+git config --global --list
